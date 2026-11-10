@@ -1,0 +1,30 @@
+{
+  "id": "thesaurus.fr-FR",
+  "locale": "fr-FR",
+  "language": "French",
+  "nativeName": "Français",
+  "type": "thesaurus",
+  "format": "MyThes DAT",
+  "encoding": "UTF-8",
+  "version": "c0865a85eb67dc377f2cf8e8fe2c4fa9e53f0dcb",
+  "releaseTag": "content-2026.11.1",
+  "file": "fr-FR_thesaurus.dat",
+  "url": "https://github.com/StudioNulem/nCave-content/releases/download/content-2026.11.1/fr-FR_thesaurus.dat",
+  "bytes": 4801627,
+  "sha256": "52efa736c37f98d7f0abfe5dd4345b6f712880ca0ca664c15a8168d9475a0b46",
+  "license": "LGPL-2.1-or-later",
+  "licenseNotice": "licenses/fr-FR/NOTICE.md",
+  "author": "Frédéric Labbé",
+  "copyright": "Frédéric Labbé (upstream notice does not specify a copyright year)",
+  "upstream": {
+    "name": "Thésaurus français MyThes (LibreOffice dictionaries mirror)",
+    "url": "https://raw.githubusercontent.com/LibreOffice/dictionaries/c0865a85eb67dc377f2cf8e8fe2c4fa9e53f0dcb/fr_FR/dictionaries/thes_fr.dat",
+    "version": "2.3",
+    "revision": "c0865a85eb67dc377f2cf8e8fe2c4fa9e53f0dcb",
+    "date": null,
+    "datSha256": "52efa736c37f98d7f0abfe5dd4345b6f712880ca0ca664c15a8168d9475a0b46"
+  },
+  "provenance": "original",
+  "correspondingSource": "corresponding-source/fr-FR/README.md",
+  "modificationDate": null
+}

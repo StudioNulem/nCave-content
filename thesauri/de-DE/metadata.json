@@ -1,0 +1,30 @@
+{
+  "id": "thesaurus.de-DE",
+  "locale": "de-DE",
+  "language": "German",
+  "nativeName": "Deutsch",
+  "type": "thesaurus",
+  "format": "MyThes DAT",
+  "encoding": "UTF-8",
+  "version": "2017-01-06-ncave-2026-11-10",
+  "releaseTag": "content-2026.11.1",
+  "file": "de-DE_thesaurus.dat",
+  "url": "https://github.com/StudioNulem/nCave-content/releases/download/content-2026.11.1/de-DE_thesaurus.dat",
+  "bytes": 28481134,
+  "sha256": "3af7a6acfff6134342194e2f10dff35cf3927385cb0601e5357f98c23fbc1a9f",
+  "license": "LGPL-2.1-or-later",
+  "licenseNotice": "licenses/de-DE/NOTICE.md",
+  "author": "Daniel Naber / OpenThesaurus",
+  "copyright": "© 2003–2017 Daniel Naber",
+  "upstream": {
+    "name": "OpenThesaurus (LibreOffice dictionaries mirror)",
+    "url": "https://raw.githubusercontent.com/LibreOffice/dictionaries/c0865a85eb67dc377f2cf8e8fe2c4fa9e53f0dcb/de/th_de_DE_v2.dat",
+    "version": "2017-01-06",
+    "revision": "c0865a85eb67dc377f2cf8e8fe2c4fa9e53f0dcb",
+    "date": "2017-01-06 23:22",
+    "datSha256": "cae18340c59738350b8abe7d7822edb76a8f26d177c3f7cdc68fb0187ca25693"
+  },
+  "provenance": "derived",
+  "correspondingSource": "corresponding-source/de-DE/README.md",
+  "modificationDate": "2026-11-10"
+}

@@ -1,0 +1,26 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: OOo2-Thesaurus
+Source: https://dobryslownik.pl/pobierz/
+
+Files: *
+Copyright:
+  2004-2014 Marcin Miłkowski <milek_pl@users.sourceforge.net>
+  2014-2026 Dobry słownik <redakcja@dobryslownik.pl>
+License: LGPL-2.1
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License, version 2.1, as published by the Free Software Foundation.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ .
+ On Debian systems, the complete text of the GNU Lesser General Public
+ License, can be found in /usr/share/common-licenses/LGPL-2.1.
+
+Files: debian/*
+Copyright: 2006-2011 Mateusz Skowroński <skowri@gmail.com>
+License: GPL-2
+ The Debian packaging is licensed under the GPL version 2,
+ see `/usr/share/common-licenses/GPL-2'.

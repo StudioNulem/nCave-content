@@ -1,0 +1,30 @@
+{
+  "id": "thesaurus.sk-SK",
+  "locale": "sk-SK",
+  "language": "Slovak",
+  "nativeName": "Slovenčina",
+  "type": "thesaurus",
+  "format": "MyThes DAT",
+  "encoding": "UTF-8",
+  "version": "2013-03-17-ncave-2026-11-10",
+  "releaseTag": "content-2026.11.1",
+  "file": "sk-SK_thesaurus.dat",
+  "url": "https://github.com/StudioNulem/nCave-content/releases/download/content-2026.11.1/sk-SK_thesaurus.dat",
+  "bytes": 723919,
+  "sha256": "e700d23be9c8731cd06cbd8b0086a6afd80fd878f05ff5940b93064919881e39",
+  "license": "LicenseRef-OpenThesaurus-SK",
+  "licenseNotice": "licenses/sk-SK/NOTICE.md",
+  "author": "Tibor Bako; Zdenko Podobný",
+  "copyright": "© 2004–2013 Tibor Bako and Zdenko Podobný",
+  "upstream": {
+    "name": "OpenThesaurus-SK (LibreOffice dictionaries mirror)",
+    "url": "https://raw.githubusercontent.com/LibreOffice/dictionaries/c0865a85eb67dc377f2cf8e8fe2c4fa9e53f0dcb/sk_SK/th_sk_SK_v2.dat",
+    "version": "2013-03-17",
+    "revision": "c0865a85eb67dc377f2cf8e8fe2c4fa9e53f0dcb",
+    "date": "2013-03-17 06:00",
+    "datSha256": "544ddc80e4cb7cc96e23f3f087c5e925d5abce2d530697a5b9fee4953f92867e"
+  },
+  "provenance": "derived",
+  "correspondingSource": "corresponding-source/sk-SK/README.md",
+  "modificationDate": "2026-11-10"
+}

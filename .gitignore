@@ -1,0 +1,6 @@
+# Distributable DATs are GitHub Release assets. Tracked source snapshots use .dat.gz.
+*.[dD][aA][tT]
+*.[iI][dD][xX]
+/release-assets/
+__pycache__/
+*.pyc
